@@ -1,9 +1,4 @@
 
-Desenvolvimento para: <br>
-
-Android<br>
-Activity<br>
-
 :rocket:Aplicativo desenvolvido para a disciplina de Programação Orientada a Objeto - Android Studio
 
 :heavy_check_mark: Adicionar um novo campo de texto para digitação, ficando assim dois campos de texto na tela.<br>
@@ -16,6 +11,12 @@ vazia para os dois campos de texto. <br>
 
 :heavy_check_mark:Ao término, criar um projeto GIT, realizar o commit do projeto e postar a URL do repositório na entrega da
 atividade. <br>
+
+
+Desenvolvimento para: <br>
+
+:zap:Android<br>
+:zap:Activity<br>
 
 
 Desenvolvido por :sparkles: Ana Buzzi
