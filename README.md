@@ -1,11 +1,10 @@
-:hammer:Aplicativo desenvolvido para a disciplina de Programação Orientada a Objeto - Android Studio
-
-![image](https://user-images.githubusercontent.com/66036121/117592577-7aee5e80-b10f-11eb-98cd-330cec9d0a4d.png)
 
 Desenvolvimento para: <br>
 
 Android<br>
 Activity<br>
+
+:rocket:Aplicativo desenvolvido para a disciplina de Programação Orientada a Objeto - Android Studio
 
 :heavy_check_mark: Adicionar um novo campo de texto para digitação, ficando assim dois campos de texto na tela.<br>
 
